@@ -1,1 +1,1 @@
-![image](https://github.com/fjsxy/leetcodeKiller/raw/master/Intersection of Two Linked Lists/160.png)
+![image](https://github.com/fjsxy/leetcodeKiller/master/Intersection of Two Linked Lists/160.png)
